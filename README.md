@@ -15,7 +15,7 @@ This project was an assignment through the MIT xPro Certificate in Coding progra
 
 ## How To Use
 
-If you follow the link [Eye Movement](http://meganmcgee.github.io/EyeExercise/) you will see a set of eye in the middle of the page. As you move your mouse the eyes will follow along the track of your mouse.
+If you follow the link [Eye Movement](http://meganmcgee.github.io/EyeExercise/) you will see a set of eyes in the middle of the page. As you move your mouse the eyes will follow along the track of your mouse.
 
 ## Future Improvements
 
